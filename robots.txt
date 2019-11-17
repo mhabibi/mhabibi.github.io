@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /irankarikator/run
+Disallow: /irankarikator/img
+Disallow: /css
+Disallow: /img
+Disallow: /resume.pdf
